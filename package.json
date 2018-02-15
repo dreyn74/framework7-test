@@ -1,0 +1,15 @@
+{
+  "name": "Framework-7-Vue Template",
+  "version": "1.0.0",
+  "description": "A template using Framework-7-vue.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/q6pw2zq64",
+  "main": "index.js",
+  "dependencies": {
+    "framework7": "2.0.8",
+    "framework7-icons": "0.8.9",
+    "framework7-vue": "2.0.7",
+    "vue": "2.5.2",
+    "vue-router": "3.0.1"
+  }
+}
